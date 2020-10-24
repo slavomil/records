@@ -26,3 +26,8 @@ th {
 td {
     border: 1px solid black;
 }
+
+.logo {
+ width: 100px;
+ height: 55px;
+}
