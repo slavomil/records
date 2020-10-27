@@ -13,6 +13,8 @@ header {
 
 footer{
     background-color: yellow;
+    position: absolute;
+    top: 200px;
 }
 
 table {
